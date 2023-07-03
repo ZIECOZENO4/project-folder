@@ -14,3 +14,9 @@ body {
   color: #fff;
   background-color: #000;
 }
+.secret-tex {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #b32525;
+}
